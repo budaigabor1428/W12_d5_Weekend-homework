@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeekendHW_MusicExchange.iml" filepath="$PROJECT_DIR$/.idea/modules/WeekendHW_MusicExchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeekendHW_MusicExchange_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WeekendHW_MusicExchange_main.iml" group="WeekendHW_MusicExchange" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeekendHW_MusicExchange_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WeekendHW_MusicExchange_test.iml" group="WeekendHW_MusicExchange" />
+    </modules>
+  </component>
+</project>
